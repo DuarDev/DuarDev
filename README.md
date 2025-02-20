@@ -7,8 +7,8 @@
 <h3>Olá</h3>
 
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=costaedu-rj&show_icons=true&theme=midnight-purple&hide_title=true"/>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaedu-rj&theme=midnight-purple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=costaedu-rj&show_icons=true&theme=midnight-purple&hide_title=true"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costaedu-rj&theme=midnight-purple"/>
 </div>
 
 ##

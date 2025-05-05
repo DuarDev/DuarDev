@@ -6,7 +6,9 @@
 
 <div>
   <h1>Bem-vindo ao meu perfil do GitHub! 👋</h1>
-  <p>Olá! Sou Eduardo, um desenvolvedor apaixonado por tecnologia, inovação e aprender novas habilidades.</p>
+  <p>💻 Desenvolvedor em ascensão, apaixonado por código limpo e soluções inteligentes.
+🚀 Criando experiências únicas como DuarDev.
+💡 Sempre aprendendo. Sempre evoluindo.</p>
 </div>
 
 <div style="display: inline-block;">
